@@ -1,5 +1,27 @@
 {
   "dependencies": {
     "inquirer": "^8.2.4"
-  }
+  },
+  "name": "object-oriented-programming-",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RussC22/Object-Oriented-Programming-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RussC22/Object-Oriented-Programming-/issues"
+  },
+  "homepage": "https://github.com/RussC22/Object-Oriented-Programming-#readme"
 }
